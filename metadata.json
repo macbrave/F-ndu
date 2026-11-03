@@ -1,0 +1,6 @@
+{
+  "name": "NetAlert",
+  "description": "Internet connection monitor and offline alert system between two devices with alarm and disconnect history logging",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
